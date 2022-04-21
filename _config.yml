@@ -1,10 +1,10 @@
 # Site settings
-title: 성실하고 책임감 강한 도영주입니다.
+title: 백엔드 개발자 도영주입니다.
 email: juju_1227@naver.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+skills: "Web Developer - asp.net, c#, javascript, jQuery, MSSQL, stored procedure(SP)"
 meta_author: LastName FirstName
 
 # Google webmaster tools
