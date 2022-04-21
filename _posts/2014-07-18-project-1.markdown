@@ -2,10 +2,10 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: ob.png
 alt: image-alt
-project-date: April 2014
+project-date: 2016.12 ~ 2018.09
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Window Form
+description: TLD 판독 프로그램 개발 - 병원 및 방사능 업무에 종사하는 분들의 경우 항상 방사능 위험에 노출되어 있으므로 TLD 뱃지를 착용하도록 되어있는데 이 TLD 를 수거하여 판독 하는 프로그램을 개발
 ---
