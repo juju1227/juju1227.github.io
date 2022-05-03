@@ -6,6 +6,6 @@ img: compare.png
 alt: image-alt
 project-date: 2020.11 ~ 2020.12
 category: Web Development (asp.net, javascript, jquery)
-description: (https://m.qoo10.sg/gmkt.inc/Mobile/My/ViewToday.aspx)<br>로그인/비로그인 체크하여 쿠키값 또는 오늘 본 상품 SP 조회하여 상품 리스트 노출<br>스크립트에서 상품 데이터 배열로 저장하여 Pin 버튼 클릭 시 첫번째 배열에 저장 후 나머지 상품 순서대로 뒤에 저장<br> 좋아요 및 장바구니 공통 이벤트 추가<br>페이지 좌/우 슬라이드 기능 추가
+description: (https://m.qoo10.sg/gmkt.inc/Mobile/My/ViewToday.aspx)<br>- 로그인/비로그인 체크하여 쿠키값 또는 오늘 본 상품 SP 조회하여 상품 리스트 노출<br>- 스크립트에서 상품 데이터 배열로 저장하여 Pin 버튼 클릭 시 첫번째 배열에 저장 후 나머지 상품 순서대로 뒤에 저장<br>- 좋아요 및 장바구니 공통 이벤트 추가<br>페이지 좌/우 슬라이드 기능 추가
 title: Mobile 오늘 본 상품 비교 (지오시스)
 ---
