@@ -6,6 +6,11 @@ img: liveshop.png
 alt: image-alt
 project-date: 2019.04 ~ 2019.05
 client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+category: Web Development (asp.net, javascript, jquery)
+description: 큐텐 라이브샵 페이지 개편 작업 (https://www.qoo10.sg/gmkt.inc/live/liveshop.aspx)
+<br>라이브샵 페이지 전용 조회 SP 생성 - 검색 레이어 추가하여 SP 내에서 키워드에 맞는 상품 조회처리
+<br>페이지 내 상품 더보기 버튼 클릭 시 - ajax 처리하여 SP에서 조회할 페이지 번호, 개수 체크하여 스크립트에서 어펜드 처리 
+<br>라이브샵 상품 금액 - 환율 조회 후 금액 계산하여 금액 노출되도록 처리
+<br>배송 플래그 - 테이블에 국가별 배송비 json 형태로 저장하여 배송비 또는 유료/무료 체크하여 배송상태 노출 처리
+title: PC/Mobile Web 라이브샵 페이지 (지오시스)
 ---
