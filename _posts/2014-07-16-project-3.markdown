@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: bundlesale.png
+img: liveshop.png
 alt: image-alt
 project-date: 2019.04 ~ 2019.05
 client: Start Bootstrap
