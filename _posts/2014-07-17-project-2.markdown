@@ -5,7 +5,6 @@ date: 2014-07-17
 img: crawling.png
 alt: image-alt
 project-date: 2018.09 ~ 2019.01
-client: Start Bootstrap
 category: Web Development(asp.net, winform(c#), javascript, jquery)
 description: 택배사 별 입고/송장출력/트래킹 관련 Restful Api(get, post, put) 개발<br>웹 크롤링 - DHL express, Sagawa, Cj 대한통운, 한진 등의 택배사 get,post 방식으로 트래킹 개발<br>택배사 api - DHL ecommerce, Wahana, YTO, GTS 등의 글로벌 택배사 post, put 방식으로 입고, 송장출력, 트래킹 관련 업체에서 제공한 api 개발<br>오토 트래킹 - 설정한 시간에 택배사별 트래킹 처리하는 윈도우 서비스 개발 
 title: 배송 시스템 (지오시스)
