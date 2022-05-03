@@ -8,6 +8,6 @@ project-date: 2016.12 ~ 2018.09
 client: Start Bootstrap
 category: Window Form(Visual C++)
 description: TLD 판독 프로그램 개발 - 병원 및 방사능 업무에 종사하는 분들의 경우 항상 방사능 위험에 노출되어 있으므로 TLD 뱃지를 착용하도록 되어있는데 이 TLD 를 수거하여 판독 하는 프로그램을 개발 
-<br>데이터 타입 별 계산 처리하는 알고리즘 클래스 개발
+데이터 타입 별 계산 처리하는 알고리즘 클래스 개발
 title: TLD 방사선 프로그램(오르비텍)
 ---
