@@ -8,5 +8,5 @@ project-date: 2021.07 ~ 2021.08
 category: Web Development (asp.net, javascript, jquery)
 description: - QSM(Qoo10 Seller Management)판매자 신청 관리 페이지에 번들세일 프로모션 신청 관련(할인정보, 신청금액, 신청일자, 프로모션 타입 등) 체크하여 페이지 개발(우선순위 3,4로 저장)<br>- 관리자가 등록할 수있는 백엔드 어드민 페이지도 신규 개발(우선순위 1,2로 저장)<br>- 번들세일 상품 등록/수정/삭제 등의 기능 웹 서비스 개발<br>- 번들세일 전용 잡스케줄러 생성<br>- 프론트에 노출 시 우선순위 순으로 랜덤처리하여 노출<br>- 페이지 캐싱, 메서드 캐싱 처리<br>- 상품 더보기 클릭 시 ajax 처리하여 append 개발
 title: PC/Mobile Web 번들세일 프로모션 (지오시스)
-link: www.quube.net/gmkt.inc/Deal/TodaysSale.aspx
+link: asd
 ---
